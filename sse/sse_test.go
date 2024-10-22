@@ -2,7 +2,7 @@ package sse
 
 import (
 	"fmt"
-	"http-Isse/backstream"
+	"github.com/wangfusu/http-Isse/backstream"
 	"net/http"
 	"testing"
 	"time"

@@ -2,7 +2,7 @@ package sse
 
 import (
 	"fmt"
-	"http-Isse/util"
+	"github.com/wangfusu/http-Isse/util"
 	"net/http"
 	"sync"
 )
